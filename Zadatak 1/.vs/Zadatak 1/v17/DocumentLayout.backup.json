@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\antel\\Desktop\\Strukture podataka\\Zadatak 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1D8EB0-43E2-48C7-8030-16326019BFFA}|Zadatak 1.vcxproj|C:\\Users\\antel\\Desktop\\Strukture podataka\\Zadatak 1\\zdk1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C1D8EB0-43E2-48C7-8030-16326019BFFA}|Zadatak 1.vcxproj|solutionrelative:zdk1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1D8EB0-43E2-48C7-8030-16326019BFFA}|Zadatak 1.vcxproj|C:\\Users\\antel\\Desktop\\Strukture podataka\\Zadatak 1\\students.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7C1D8EB0-43E2-48C7-8030-16326019BFFA}|Zadatak 1.vcxproj|solutionrelative:students.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "students.txt",
+              "DocumentMoniker": "C:\\Users\\antel\\Desktop\\Strukture podataka\\Zadatak 1\\students.txt",
+              "RelativeDocumentMoniker": "students.txt",
+              "ToolTip": "C:\\Users\\antel\\Desktop\\Strukture podataka\\Zadatak 1\\students.txt",
+              "RelativeToolTip": "students.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-12T16:34:50.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "zdk1.c",
+              "DocumentMoniker": "C:\\Users\\antel\\Desktop\\Strukture podataka\\Zadatak 1\\zdk1.c",
+              "RelativeDocumentMoniker": "zdk1.c",
+              "ToolTip": "C:\\Users\\antel\\Desktop\\Strukture podataka\\Zadatak 1\\zdk1.c",
+              "RelativeToolTip": "zdk1.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-12T16:33:47.786Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
